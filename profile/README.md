@@ -31,5 +31,14 @@ B-MUL-200/PirateQuest> ./my_rpg
 All the source code has been written according to the [Epitech C Coding Style](https://williamjlvt.github.io/assets/coding_style/epitech_c_coding_style.pdf).
 ### Commits style
 All the commits have been written according to the [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) specification.
+### Workflow
+Branches are named according to the following pattern: `type/subject`, where `type` is the type of the branch and `subject` is a short description of the branch.
+The types are:
+- `feat`: a new feature
+- `fix`: a bug fix
+- `docs`: changes to documentation
+- `style`: formatting, missing semi colons, etc; no code change
+- `refactor`: refactoring production code
+- `test`: adding tests, refactoring test; no production code change
 
 ![bottom](https://github.com/Pirate-Quest/.github/blob/main/profile/bottom.png?raw=true)
