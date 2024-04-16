@@ -31,3 +31,5 @@ B-MUL-200/PirateQuest> ./my_rpg
 All the source code has been written according to the [Epitech C Coding Style](https://williamjlvt.github.io/assets/coding_style/epitech_c_coding_style.pdf).
 ### Commits style
 All the commits have been written according to the [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) specification.
+
+![bottom](https://github.com/Pirate-Quest/.github/blob/main/profile/bottom.png?raw=true)
