@@ -5,8 +5,6 @@
 CSFML Game Project, for the final graphic project of the first year of Epitech.
 The goal of the project is to create a game using the CSFML library, with a pirate theme.
 
-![Anurag's GitHub stats]](https://github-readme-stats.vercel.app/api?username=Pirate-Quest&show_icons=true&theme=radical)
-
 ## Features
 
 - Map
